@@ -80,7 +80,8 @@ void setup() {
   Serial.print("IP Address is : ");
   Serial.println(WiFi.localIP());                                            //print local IP address
 }
-
+DgitalRead()
+DgitalWrite()
 void loop() {
   
   MQTT_connect();
